@@ -1,6 +1,6 @@
 # lecture-3-md activity
 
-### animals
+### Animals
 [How Many Animals!](https://a-z-animals.com/animals/)
 
 ## Mammals
